@@ -1,4 +1,3 @@
-package ATIVIDAD;
 class Pessoa {
     String nome;
     int idade;
